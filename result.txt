@@ -1,0 +1,38 @@
+Epoch: 500/500 || Train || sum loss: 6.5411 || train_acc: 0.2548 || 53/208
+Test || loss: 2.7145 || test_acc: 0.1250 || 6/48
+
+Epoch: 500/500 || Train || sum loss: 4.6866 || train_acc: 0.4423 || 92/208
+Test || loss: 3.3724 || test_acc: 0.1458 || 7/48
+
+Epoch: 500/500 || Train || sum loss: 2.8607 || train_acc: 0.6250 || 130/208
+Test || loss: 3.4620 || test_acc: 0.1667 || 8/48
+
+Epoch: 500/500 || Train || sum loss: 1.3078 || train_acc: 0.7837 || 163/208
+Test || loss: 6.2559 || test_acc: 0.1875 || 9/48
+
+Epoch: 500/500 || Train || sum loss: 6.3712 || train_acc: 0.6387 || 327/512
+Test || loss: 2.8353 || test_acc: 0.2232 || 25/112
+
+Epoch: 500/500 || Train || sum loss: 14.6615 || train_acc: 0.5466 || 551/1008
+Test || loss: 2.5500 || test_acc: 0.3125 || 65/208
+
+Epoch: 500/500 || Train || sum loss: 34.5254 || train_acc: 0.4430 || 886/2000
+Test || loss: 1.9595 || test_acc: 0.3400 || 136/400
+
+Epoch: 500/500 || Train || sum loss: 12.3787 || train_acc: 0.6181 || 623/1008
+Test || loss: 1.6704 || test_acc: 0.4712 || 98/208
+
+Epoch: 500/500 || Train || sum loss: 11.0053 || train_acc: 0.6687 || 674/1008
+Test || loss: 1.1884 || test_acc: 0.6202 || 129/208
+
+Epoch: 500/500 || Train || sum loss: 6.8199 || train_acc: 0.7798 || 786/1008
+Test || loss: 1.9166 || test_acc: 0.6154 || 128/208
+
+Epoch: 500/500 || Train || sum loss: 4.5152 || train_acc: 0.8363 || 843/1008
+Test || loss: 1.1625 || test_acc: 0.7404 || 154/208
+
+Epoch: 500/500 || Train || sum loss: 4.3327 || train_acc: 0.8611 || 868/1008
+Test || loss: 1.0063 || test_acc: 0.7692 || 160/208
+
+Epoch: 500/500 || Train || sum loss: 3.5182 || train_acc: 0.9500 || 1900/2000
+Test || loss: 0.3441 || test_acc: 0.9275 || 371/400
